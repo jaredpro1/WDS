@@ -1,0 +1,44 @@
+.font1{
+    font-family: 'Stint Ultra Condensed', cursive;  
+}
+.font2{
+font-family: 'Limelight', cursive;
+}
+.font4{
+    font-family: 'Courier Prime', monospace;
+}
+.cour{
+
+    font-family: 'Courier Prime', monospace;
+
+}
+.stint{
+    font-family: 'Stint Ultra Condensed', cursive;  
+} 
+.lime{
+    font-family: 'Limelight', cursive;
+}
+.amp2{
+    background-color: #8297a3;
+}
+.amp4{
+    background-color: #32adc4;
+
+}
+.amp1{
+    background-color: #4675fa;
+}
+.position{
+    border: 4.5px dotted palegreen;
+}
+.border{
+    border: 2.5px double black;
+
+}
+.ments{
+    border: 1.2px dotted blue;
+}
+.onts{
+    border: 5px dotted aquamarine;
+}
+
